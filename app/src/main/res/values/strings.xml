@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CameraGalleryExample</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="setting">Setting</string>
+    <string name="not_now">Not now</string>
+    <string name="alert">Alert</string>
+    <string name="rational_storage_camera">To capture photo allow SmartSchool access to your storage. Tap Settings > Permissions and turn Storage on</string>
+    <string name="rational_camera">To capture photo allow SmartSchool access to your camera. Tap Settings > Permissions and turn Camera on</string>
+    <string name="rational_storage">To pick photo allow SmartSchool access to your storage. Tap Settings > Permissions and turn Storage on</string>
+</resources>
